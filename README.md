@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Matías Figueroa
- I am a beggining developer, certfied as FullStack by Inacap but, as said, I'm still learning the bases.
+ I am a beginning developer, certified as a Full Stack Developer by INACAP. However, I'm still learning.
 
-- 🔭 I’m currently working on React and Laravel Developing during muy internship
+- 🔭 I worked with React and Laravel during my internship.
 - 🌱 I’m currently learning JavaScript and PHP
-- 📖 I studied for Programmer Analyst/Analista Programador in INACAP.
-- 🔤 I have little knowledge about C, Python, JavaScript and PHP as languages, and
-      ReactJS, Django, and Laravel as Frameworks.
+- 📖 I am a Programmer Analyst (Analista Programador) graduated from INACAP.
+- 🔤 I have basic knowledge of C, Python, JavaScript, and PHP, as well as experience with the frameworks ReactJS, Django, and Laravel.
 
  
