@@ -1,4 +1,4 @@
-**Español** 🇪🇸
+*Español* 🇪🇸
 
 # Hola, soy Matías Figueroa 👋
 
@@ -24,7 +24,7 @@ Soy titulado de la carrera Analista Programador en INACAP. Me considero un desar
 
 ---
 
-**English** 🇺🇸
+*English* 🇺🇸
 
 # Hi, I'm Matías Figueroa 👋
 
