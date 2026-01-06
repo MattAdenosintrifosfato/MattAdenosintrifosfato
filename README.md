@@ -1,10 +1,24 @@
-## Hi there 👋 I'm Matías Figueroa
- I am a beginning developer, certified as a Full Stack Developer by INACAP. However, I'm still learning.
+# Hi there 👋 I'm Matías Figueroa
 
-- 🔭 I worked with React and Laravel during my internship and I'm making prototypes on Vercel in my job
-- 🌱 I’m currently learning JavaScript and PHP
-- 📖 I am a Programmer Analyst (Analista Programador) graduated from INACAP.
-- 🔤 I have basic knowledge of C, Python, JavaScript, and PHP, as well as experience with the frameworks ReactJS, Next.js, Django, and Laravel.
-- 💡 I am looking for a chance to learn Rust to see how the system level language works and also interseted in ABAP to learn the work behind all kind of Corps.
+**Analista Programador (INACAP) | Full Stack Developer & Systems Engineering Enthusiast**
 
+I am a software developer focused on the bridge between high-level web applications and low-level system performance. My background as an *Analista Programador* gives me a strong foundation in logic, which I am currently applying to master Rust and Infrastructure.
+
+### 🔭 Currently Working On
+* **Web Performance:** Building prototypes on Vercel using **Next.js** and **React**.
+* **Systems Foundations:** Transitioning from **C** to **Rust** to understand memory safety and high-performance computing.
+* **Enterprise Logic:** Exploring **ABAP** to understand the architecture behind large-scale corporate systems.
+
+### 🛠 Tech Stack
+* **Frontend:** ReactJS, Next.js.
+* **Backend:** PHP (Laravel), Python (Django), JavaScript (Node.js).
+* **Systems:** C (Foundations), Rust (In Progress).
+
+### 🌱 2026 Goals
+* Build a high-performance backend infrastructure using **Rust**.
+* Deepen my understanding of **WebAssembly (WASM)**.
+* Master enterprise resource management through **ABAP**.
+
+---
+*“I believe in writing code that is not only functional but memory-efficient and scalable.”*
  
