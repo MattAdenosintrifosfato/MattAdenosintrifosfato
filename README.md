@@ -1,24 +1,52 @@
-# Hi there 👋 I'm Matías Figueroa
+**Español** 🇪🇸
 
-**Analista Programador (INACAP) | Full Stack Developer & Systems Engineering Enthusiast**
+# Hola, soy Matías Figueroa 👋
 
-I am a software developer focused on the bridge between high-level web applications and low-level system performance. My background as an *Analista Programador* gives me a strong foundation in logic, which I am currently applying to master Rust and Infrastructure.
+*Chileno* 🇨🇱
 
-### 🔭 Currently Working On
-* **Web Performance:** Building prototypes on Vercel using **Next.js** and **React**.
-* **Systems Foundations:** Transitioning from **C** to **Rust** to understand memory safety and high-performance computing.
-* **Enterprise Logic:** Exploring **ABAP** to understand the architecture behind large-scale corporate systems.
+**Analista Programador | Desarrollador Full Stack**
 
-### 🛠 Tech Stack
-* **Frontend:** ReactJS, Next.js.
-* **Backend:** PHP (Laravel), Python (Django), JavaScript (Node.js).
-* **Systems:** C (Foundations), Rust (In Progress).
+Soy titulado de la carrera Analista Programador en INACAP. Me considero un desarrollador con una base técnica sólida, interesado en entender cómo funcionan las cosas "bajo el capó".
 
-### 🌱 2026 Goals
-* Build a high-performance backend infrastructure using **Rust**.
-* Deepen my understanding of **WebAssembly (WASM)**.
-* Master enterprise resource management through **ABAP**.
+### 🔭 Experiencia actual
+* Trabajo con **Next.js** (experiencia de práctica, profesional y proyectos personales).
+* Actualmente desarrollo prototipos y pruebas en **Vercel**, con el objetivo de migrar un sistema propio a un servidor local para su uso en producción.
+* Familiarizado con el flujo de trabajo en **React**, **Laravel** y **Django**.
+
+### 🌱 Intereses de estudio
+* **Frameworks:** Investigando acerca de **Vue.js** y **Angular** para entender las diferencias entre los enfoques de las plataformas.
+* **Sistemas:** Repasando conceptos de **C** y explorando **Rust** para entender la gestión de memoria y el bajo nivel.
+* **Empresa:** Aprendiendo **ABAP** para conocer el funcionamiento de los sistemas ERP en grandes organizaciones.
+
+### 🛠 Conocimientos
+* **Lenguajes:** JavaScript, PHP básico, Python y bases de C.
+* **Frameworks:** ReactJS, Next.js, Laravel.
 
 ---
-*“I believe in writing code that is not only functional but memory-efficient and scalable.”*
- 
+
+**English** 🇺🇸
+
+# Hi, I'm Matías Figueroa 👋
+
+*Chilean* 🇨🇱
+
+**Programmer Analyst | Full Stack Developer**
+
+I am a Programmer Analyst graduated from INACAP. I consider myself a developer with a solid technical foundation, interested in understanding how things work "under the hood."
+
+### 🔭 Current Experience
+* Working with **Next.js** (internship, professional, and personal projects).
+* Currently developing prototypes and tests on **Vercel**, with the goal of migrating a proprietary system to a local server for production use.
+* Familiar with **React**, **Laravel**, and **Django** workflows.
+
+### 🌱 Study Interests
+* **Frameworks:** Researching **Vue.js** and **Angular** to understand the differences between various platform approaches.
+* **Systems:** Reviewing **C** concepts and exploring **Rust** to understand memory management and low-level programming.
+* **Enterprise:** Learning **ABAP** to understand how ERP systems function within large organizations.
+
+### 🛠 Tech Stack
+* **Languages:** JavaScript, basic PHP, Python, and foundations of C.
+* **Frameworks:** ReactJS, Next.js, Laravel.
+
+---
+*Enfocado en aprender paso a paso y construir software que funcione bien. / Focused on learning step-by-step and building software that works well.*
